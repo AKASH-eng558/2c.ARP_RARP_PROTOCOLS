@@ -63,6 +63,7 @@ c.close()
 ```
 
 ## OUPUT 
+
 <img width="1028" height="311" alt="image" src="https://github.com/user-attachments/assets/08ae49ec-51ba-49cc-943a-dcb91211b8ea" />
 
 ## RESULT
